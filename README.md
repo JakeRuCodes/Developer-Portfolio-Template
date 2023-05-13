@@ -1,7 +1,3 @@
-# Portfolio
-In case you are a developer who needs a portfolio, but you don't know much about front end, then don't worry; I got you covered with this template.
-Simply install the app and customize the About Me, Skills and Project sections according to your details. 
-
 **DISCORD**: https://discord.gg/PgtYKbbRRP
 
 ## 🤯 SHOWCASE
